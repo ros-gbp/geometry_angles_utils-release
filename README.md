@@ -1,3 +1,26 @@
+## angles (kinetic) - 1.9.10-0
+
+The packages in the `angles` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release angles -t kinetic -r kinetic --override-release-repository-push-url git@github.com:ros-gbp/geometry_angles_utils-release.git --new-track` on `Fri, 18 Mar 2016 21:01:06 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.9.10-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## angles (indigo) - 1.9.10-0
 
 The packages in the `angles` repository were released into the `indigo` distro by running `/usr/bin/bloom-release angles -t indigo -r indigo --override-release-repository-push-url git@github.com:ros-gbp/geometry_angles_utils-release.git` on `Fri, 18 Mar 2016 20:58:12 -0000`
