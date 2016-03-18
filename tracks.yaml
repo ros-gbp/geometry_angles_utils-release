@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:ros-gbp/geometry_angles_utils-release.git
 tracks:
   groovy:
     actions:
