@@ -1,0 +1,83 @@
+ros-indigo-angles (1.9.10-0saucy) saucy; urgency=high
+
+  * Export architecture_independent flag in package.xml
+  * Simply and improve performance of shortest_angular_distance(). adding two unit test cases
+  * check for CATKIN_ENABLE_TESTING
+  * Contributors: Derek King, Lukas Bulwahn, Scott K Logan, Tully Foote
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 29 Dec 2014 08:00:00 -0000
+
+ros-indigo-angles (1.9.9-0saucy) saucy; urgency=high
+
+  * catkin as a buildtool dependency
+  * Contributors: Tully Foote
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sat, 23 Mar 2013 07:00:00 -0000
+
+ros-indigo-angles (1.9.8-0saucy) saucy; urgency=high
+
+  * Removed 'copyright' tag from package.xml
+  * Contributors: William Woodall
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 05 Dec 2012 08:00:00 -0000
+
+ros-indigo-angles (1.9.7-0saucy) saucy; urgency=high
+
+  * fix typo
+  * Contributors: Vincent Rabaud
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 03 Oct 2012 04:23:00 -0000
+
+ros-indigo-angles (1.9.6-0saucy) saucy; urgency=high
+
+  * comply to the new catkin API
+  * Contributors: Vincent Rabaud
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 02 Oct 2012 22:39:00 -0000
+
+ros-indigo-angles (1.9.5-0saucy) saucy; urgency=high
+
+  * fixes to build
+  * Contributors: Ioan Sucan
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 17 Sep 2012 01:11:00 -0000
+
+ros-indigo-angles (1.9.4-0saucy) saucy; urgency=high
+
+  * rename the include folder to angles as it should be
+  * Contributors: Vincent Rabaud
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sun, 16 Sep 2012 08:24:00 -0000
+
+ros-indigo-angles (1.9.3-0saucy) saucy; urgency=high
+
+  * fix relative path
+  * Contributors: Ioan Sucan
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 03 Sep 2012 07:55:00 -0000
+
+ros-indigo-angles (1.9.2-0saucy) saucy; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 03 Sep 2012 07:32:00 -0000
+
+ros-indigo-angles (1.9.1-0saucy) saucy; urgency=high
+
+  * add proper manifest
+  * Contributors: Ioan Sucan
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 24 Jul 2012 07:00:00 -0000
+
+ros-indigo-angles (1.9.0-0saucy) saucy; urgency=high
+
+  * fix the test for the new headers
+  * fix the guard
+  * package builds with catkin
+  * remove useless header
+  * copying from geometry/
+  * Contributors: Ioan Sucan, Vincent Rabaud
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 23 Jul 2012 07:00:00 -0000
+
+
