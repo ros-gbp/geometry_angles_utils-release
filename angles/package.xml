@@ -1,6 +1,6 @@
 <package>
   <name>angles</name>
-  <version>1.9.9</version>
+  <version>1.9.10</version>
   <description>This package provides a set of simple math utilities to work
         with angles. The utilities cover simple things like
         normalizing an angle and conversion between degrees and
@@ -16,5 +16,9 @@
 
   <url>http://ros.org/wiki/angles</url>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
+
+  <export>
+    <architecture_independent/>
+  </export>
 </package>
