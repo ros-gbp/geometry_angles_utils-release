@@ -1,3 +1,26 @@
+## angles (indigo) - 1.9.11-0
+
+The packages in the `angles` repository were released into the `indigo` distro by running `/usr/bin/bloom-release angles -t indigo -r indigo` on `Fri, 14 Apr 2017 20:55:54 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles
+- release repository: https://github.com/ros-gbp/geometry_angles_utils-release.git
+- rosdistro version: `1.9.10-0`
+- old version: `1.9.10-0`
+- new version: `1.9.11-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## angles (lunar) - 1.9.10-2
 
 The packages in the `angles` repository were released into the `lunar` distro by running `/usr/bin/bloom-release angles -t lunar -r lunar` on `Wed, 22 Feb 2017 20:03:56 -0000`
