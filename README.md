@@ -1,3 +1,26 @@
+## angles (melodic) - 1.9.11-0
+
+The packages in the `angles` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -t melodic -r melodic angles` on `Thu, 08 Feb 2018 00:32:52 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.9.11-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.3`
+- vcstools version: `0.1.39`
+
+
 ## angles (lunar) - 1.9.11-0
 
 The packages in the `angles` repository were released into the `lunar` distro by running `/usr/bin/bloom-release angles -t lunar -r lunar` on `Fri, 14 Apr 2017 21:07:28 -0000`
