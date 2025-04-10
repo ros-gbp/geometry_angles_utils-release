@@ -1,3 +1,26 @@
+## angles (noetic) - 1.9.14-1
+
+The packages in the `angles` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic angles` on `Thu, 10 Apr 2025 01:21:26 -0000`
+
+The `angles` package was released.
+
+Version of package(s) in repository `angles`:
+
+- upstream repository: https://github.com/ros/angles.git
+- release repository: https://github.com/ros-gbp/geometry_angles_utils-release.git
+- rosdistro version: `1.9.13-1`
+- old version: `1.9.13-1`
+- new version: `1.9.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## angles (noetic) - 1.9.13-1
 
 The packages in the `angles` repository were released into the `noetic` distro by running `/usr/bin/bloom-release angles --rosdistro noetic` on `Wed, 11 Mar 2020 20:33:00 -0000`
